@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kyzel, a <a href="https://linkedin.com/in/Josh"> Software Engineer & IT Professional</a> 👨🏽‍💻</h1>
+<h1>Hi I'm Kyzel, a Software Engineer & IT Professional</a> 👨🏽‍💻</h1>
 
 <h2>🖥️ Projects:</h2>
 
