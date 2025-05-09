@@ -3,7 +3,7 @@
 <h2>🖥️ Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Configuration](https://github.com/kriversmims/post-install-config)
+  - [osTicket: Configuration](https://github.com/kriversmims/osticket-config)
   - [osTicket: Ticket Lifecycle](https://github.com/kriversmims/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Active Directory Configuration within Azure VMs](https://github.com/kriversmims/configure-ad)
