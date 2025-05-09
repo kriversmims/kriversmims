@@ -1,4 +1,4 @@
-<h1>Hi I'm Kyzel, a Software Engineer & IT Professional</a> 👨🏽‍💻</h1>
+<h1>I'm Kyzel, a CS Major & IT Professional</a> 👨🏽‍💻</h1>
 
 <h2>🖥️ Projects:</h2>
 
