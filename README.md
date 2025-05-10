@@ -2,7 +2,7 @@
 
 <h2>🖥️ Projects:</h2>
 
-- <b> My Web Portfolio (www.kyzelr.com) <b/>
+- <b>Portfolio (www.kyzelr.com) <b/>
 
 - <b>Ticketing Systems (osTicket)</b>
   - [osTicket: Configuration](https://github.com/kriversmims/osticket-config)
